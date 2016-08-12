@@ -1,14 +1,7 @@
 ---
-author:
-  - name: AllGamesBeta Media
-    url: 'https://www.youtube.com/channel/UC3RbWPj7FHv9CpbkKsXHWwg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-08-12T09:32:27.902Z'
+sourcePath: _posts/2016-08-12-titanfall-2-single-player-gameplay-at-4k.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=WkEzBrJ4-S8'
 keywords:
   - allgamesbeta
   - duration
@@ -20,8 +13,14 @@ keywords:
   - ps4
   - homeworld
   - 3ds
-description: 'http://www.allgamesdelta.net ^^'
-inLanguage: en
+related: []
+author:
+  - name: AllGamesBeta Media
+    url: 'https://www.youtube.com/channel/UC3RbWPj7FHv9CpbkKsXHWwg'
+    avatar: {}
+via: {}
+dateModified: '2016-08-12T09:32:27.016Z'
+title: Titanfall 2 Single-Player Gameplay at 4K
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=WkEzBrJ4-S8&feature=applinks'
     type: ios
@@ -59,18 +58,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=WkEzBrJ4-S8'
-title: Titanfall 2 Single-Player Gameplay at 4K
-datePublished: '2016-08-12T09:31:15.248Z'
-dateModified: '2016-08-12T09:30:56.388Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: 'http://www.allgamesdelta.net ^^'
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-12-titanfall-2-single-player-gameplay-at-4k.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWkEzBrJ4-S8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWkEzBrJ4-S8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWkEzBrJ4-S8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://www.destructoid.com/ul/379766-yep-i-d-rather-play-titanfall-2-s-singleplayer-mode-after-seeing-it/tf2header-noscale.jpg)
