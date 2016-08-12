@@ -1,4 +1,3 @@
-layout_spectrum: 0.005601122044026852
 typography_spectrum: 0.22142094536684453
 color:
   brandStrength: 0.20934299961663783
@@ -6,9 +5,11 @@ color:
   saturation: 0.8717358626890928
   rhythmicContrast: 0.4788569323718548
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.005601122044026852
 name: Burconsult
+description: live and let live...
