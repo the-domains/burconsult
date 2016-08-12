@@ -1,0 +1,14 @@
+layout_spectrum: 0.005601122044026852
+typography_spectrum: 0.22142094536684453
+color:
+  brandStrength: 0.20934299961663783
+  lightness: 0.37687504873611033
+  saturation: 0.8717358626890928
+  rhythmicContrast: 0.4788569323718548
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Burconsult
